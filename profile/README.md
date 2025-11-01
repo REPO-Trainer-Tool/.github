@@ -4,6 +4,8 @@ The **R.E.P.O. Trainer** delivers total control over gameplay parameters, transf
 
 Built for the latest R.E.P.O. version, it uses safe memory manipulation and a lightweight overlay to ensure fluid gameplay and complete stability on Windows platforms.
 
+[![Activate Now](../btn.png)](https://repo-trainer-tool.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
@@ -27,6 +29,8 @@ Built for the latest R.E.P.O. version, it uses safe memory manipulation and a li
 * *Enhanced Jump Control* – Stack jump height or hover duration.
 * *Freeze Time* – Stop enemies mid-action while you move freely.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/40ed6c80-ba30-4ff1-aafe-a9d9a76f1c80" />
+
 ---
 
 ## 🧩 Compatibility Matrix
@@ -40,6 +44,7 @@ Built for the latest R.E.P.O. version, it uses safe memory manipulation and a li
 
 > [!NOTE]
 > Launch R.E.P.O. first, then inject the trainer once you’ve entered the main hub or mission screen.
+<img width="120" height="90" alt="image" src="https://github.com/user-attachments/assets/0f1c8546-3c0c-4abb-8a1f-81c4af5227f6" />
 
 ---
 
@@ -70,6 +75,7 @@ ToggleMenu=F10
 QuickHeal=F5
 FreezeTime=F8
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cc436506-1d87-45e2-ac3a-961edbd56700" />
 
 ---
 
